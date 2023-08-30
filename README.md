@@ -7,8 +7,8 @@
 <a href="https://www.python.org/">
 <img src="https://img.shields.io/badge/MADE%20WITH-PYTHON-red?logoColor=red&logo=Python&style=for-the-badge">
 </a>
-<a href="/">
-<img src="https://img.shields.io/badge/version-0.1-blue?logo=adguard&style=for-the-badge">
+<a href="/stargazers">
+<img src="https://img.shields.io/github/stars/CYCNO/bulk-mail-sender?logo=adguard&style=for-the-badge">
 </a>
 <a href="/graphs/contributors">
 <img src="https://img.shields.io/github/contributors/CYCNO/bulk-mail-sender?style=for-the-badge&color=green&logo=GitHub">
@@ -39,9 +39,9 @@ Follow these steps to use the code:
   ```
 
 **2. Configure the email and template data:**
-   - Replace sample recipient data in `recipient_data.json` with your recipients' details.
-   - Enter your Gmail credentials (email and app password) in `credential.json`. **[How to get your app password](https://www.youtube.com/watch?v=J4CtP1MBtOE)**
-   - Personalize the email template in `email_template.txt`. 
+   - Replace sample recipient data in `data/recipient_data.json` with your recipients' details.
+   - Enter your Gmail credentials (email and app password) in `data/credential.json`. **[How to get your app password](https://www.youtube.com/watch?v=J4CtP1MBtOE)**
+   - Personalize the email template in `data/email_template.txt`. 
    - **Note:** Do not modify the `{name}` placeholder.
 
 **3. Run the script:**
