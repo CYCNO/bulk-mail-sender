@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.mediafire.com/convkey/e6dd/sw86n83zla0fmdr7g.jpg" height="250" >  
+<img src="https://i.imgur.com/sAq1GKK.png" height="250" >  
 <h1 align="center">Bulk Mail Sender</h1>
 <strong><i>A simple yet powerful tool to send email to everyone at same time.</i></strong>
 <br>
